@@ -1,0 +1,60 @@
+.MyInputFile{
+	position: relative;
+  
+  
+	
+}
+
+
+.menu{
+	
+	text-align: center;
+	
+	
+}
+
+.myfile{
+	
+	
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+	background: gray;
+	
+}
+.img{
+	width: 100px;
+}
+.tester{
+	text-align: center;
+	
+}
+body{
+	
+	background-color: #12093A;
+	color: white;
+}
+	 
+	 
+.lateral{
+	color:black;
+}
+.inputScript{ 
+padding: 20px 10px; line-height: 28px; 
+}
+.NftDrivePage{
+	text-align: center;
+}
+.MetamaskBtn{
+	text-align: left;
+}
+.deletedata{
+	text-align: left;
+}
+.deletedataInput{
+	text-align: left;
+	
+}
+#dataBorrar{
+	width:30px;
+}
